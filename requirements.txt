@@ -1,5 +1,11 @@
 langgraph
+
+langchain
+langchain-core
 langchain_google_genai
+
 python-dotenv
 gradio
-pyppeteer
+
+python-dotenv
+Ipython
